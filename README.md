@@ -34,12 +34,14 @@
 - Sayfa Düzeni
 - Sayfa Stili
 - Fonksiyonlar
+- Backend
 
 ### Muhammet:
 
 - Sayfa Düzeni
 - Sayfa Stili
 - Fonksiyonlar
+- Backend
 - Sorular
 
 ### Haluk Eren:
@@ -66,7 +68,7 @@
 
 - Git versiyon kontrol sistemi kontrol için: git --version git kurulumu çok basit chatGPT ye sorun
 - Node.js v22.15.0 ve npm kontrol için terminal: node -v ile npm -v
-- npm install -g sass
+- npm install -g sass (gerekirse)
 
 ## Kurulum adımları
 
@@ -76,4 +78,10 @@
   ortak contributor eklerim
 - cd WebGame-Project
 - npm install
-- npm run scss -> burada scss uzantılı dosyalarda değişiklik yapıldığında bu komut önceden çalışır hale gelir
+- npm run scss -> burada scss uzantılı dosyalarda değişiklik yapıldığında bu komut önceden çalışırken değişiklik yansır. Public altındaki css uzantısına eklenir değişiklikler
+
+## ÖNEMLİ
+
+- public altındaki css dosyasına dokunmayın sadece scss uzantılı dosyalarda değişiklik yapılır
+- index.html başlangıç sayfamız gerekirse ekleriz başka html dosyaları
+- aynı şekilde js uzantılı dosyaları da çoğaltırız
