@@ -78,10 +78,11 @@
   ortak contributor eklerim
 - cd WebGame-Project
 - npm install
-- npm run scss -> burada scss uzantılı dosyalarda değişiklik yapıldığında bu komut önceden çalışırken değişiklik yansır. Public altındaki css uzantısına eklenir değişiklikler
+- npm run scss -> bu komut çalışırken scss uzantılı dosyalarda değişiklik yapılır ve ctrl+s ile kaydedildiğinde kodlar derlenir ve sıkıştırılır, public altındaki css dosyasına yazdırılır.
 
 ## ÖNEMLİ
 
-- public altındaki css dosyasına dokunmayın sadece scss uzantılı dosyalarda değişiklik yapılır
+- CSS için: public altındaki css dosyasına dokunmayın sadece scss uzantılı dosyalarda değişiklik yapılır
 - index.html başlangıç sayfamız gerekirse ekleriz başka html dosyaları
 - aynı şekilde js uzantılı dosyaları da çoğaltırız
+- json dosya formatına örnekleri ekledim
