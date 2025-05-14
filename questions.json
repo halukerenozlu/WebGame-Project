@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "translations": {
+      "en": {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+        "correctIndex": 1
+      },
+      "tr": {
+        "question": "Dünyanın en yüksek dağı hangisidir?",
+        "options": ["K2", "Everest", "Kangçençunga", "Lhotse"],
+        "correctIndex": 1
+      }
+    }
+  },
+  {
+    "id": 2,
+    "category": "science",
+    "difficulty": "medium",
+    "translations": {
+      "en": {
+        "question": "What is the chemical symbol for water?",
+        "options": ["O2", "H2O", "CO2", "NaCl"],
+        "correctIndex": 1
+      },
+      "tr": {
+        "question": "Suyun kimyasal simgesi nedir?",
+        "options": ["O2", "H2O", "CO2", "NaCl"],
+        "correctIndex": 1
+      }
+    }
+  },
+  {
+    "id": 3,
+    "category": "history",
+    "difficulty": "hard",
+    "translations": {
+      "en": {
+        "question": "In which year did the Battle of Hastings take place?",
+        "options": ["1066", "1215", "1415", "1914"],
+        "correctIndex": 0
+      },
+      "tr": {
+        "question": "Hastings Savaşı hangi yılda gerçekleşti?",
+        "options": ["1066", "1215", "1415", "1914"],
+        "correctIndex": 0
+      }
+    }
+  },
+  {
+    "id": 4,
+    "category": "sports",
+    "difficulty": "easy",
+    "translations": {
+      "en": {
+        "question": "How many players are there in a football team on the field?",
+        "options": ["9", "10", "11", "12"],
+        "correctIndex": 2
+      },
+      "tr": {
+        "question": "Futbol takımında sahada kaç oyuncu bulunur?",
+        "options": ["9", "10", "11", "12"],
+        "correctIndex": 2
+      }
+    }
+  },
+  {
+    "id": 5,
+    "category": "technology",
+    "difficulty": "medium",
+    "translations": {
+      "en": {
+        "question": "Which company developed the JavaScript programming language?",
+        "options": ["Microsoft", "Netscape", "Google", "Mozilla"],
+        "correctIndex": 1
+      },
+      "tr": {
+        "question": "JavaScript programlama dilini hangi şirket geliştirdi?",
+        "options": ["Microsoft", "Netscape", "Google", "Mozilla"],
+        "correctIndex": 1
+      }
+    }
+  }
+]
