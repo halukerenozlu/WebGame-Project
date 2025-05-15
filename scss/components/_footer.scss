@@ -1,0 +1,17 @@
+// düzenlenecek, örnek teşkil etmesi için
+
+@use "variables";
+
+#main-footer {
+  background: variables.$light-color;
+  color: variables.$dark-color;
+  height: 5rem;
+
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    height: 100%;
+  }
+}

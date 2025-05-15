@@ -1,0 +1,25 @@
+// düzenlenecek, örnek teşkil etmesi için
+@use "variables";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: variables.$primary-color;
+  font-family: "golos-text", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: variables.$dark-color;
+}
+
+img {
+  width: 100%;
+}
