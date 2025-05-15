@@ -1,16 +1,15 @@
 ### Kullanılacak Teknolojiler
 
 - HTML5
-- SCSS (Modular structure)
+- SCSS (Modüler Yapi)
 - JavaScript
 - Node.js
 - Express.js
-- Vanilla.js (??)
 - JSON document type
-- Font Awesome (for icons)
-- ScrollReveal.js (for animations)
+- Font Awesome (hazır ikonlar)
+- ScrollReveal.js (yazı animasyonları için)
 - Google Fonts
-- etc.
+- vb.
 
 ## Görev Dağılımı
 
