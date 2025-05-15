@@ -1,5 +1,11 @@
-@use "variables";
-@use "utilities";
-@use "base";
-@use "footer";
-@use "header";
+@use "abstracts/variables";
+@use "abstracts/mixins";
+@use "base/base";
+@use "utilities/utilities";
+@use "layout/sections";
+@use "components/header";
+@use "components/footer";
+@use "components/button";
+@use "components/card";
+@use "pages/login";
+@use "pages/game";
