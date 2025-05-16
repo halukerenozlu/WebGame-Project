@@ -15,7 +15,6 @@
 
 ### Meriç:
 
-- Sayfa Düzeni
 - Sayfa Stili
 - Fonksiyonlar
 - Tasarım
@@ -23,33 +22,27 @@
 
 ### Atakan:
 
-- Sayfa Düzeni
 - Sayfa Stili
 - Tasarım
 - Fonksiyonlar
 
 ### Şükrü:
 
-- Sayfa Düzeni
 - Sayfa Stili
+- Tasarım
 - Fonksiyonlar
-- Backend
 
 ### Muhammet:
 
-- Sayfa Düzeni
 - Sayfa Stili
 - Fonksiyonlar
-- Backend
 - Sorular
 
 ### Haluk Eren:
 
-- Sayfa Düzeni
 - Sayfa Stili
 - Yapı İskeleti
 - Tasarım
-- Backend
 - Fonksiyonlar
 
 ## VS Code Eklentileri Tavsiye
@@ -65,19 +58,19 @@
 
 ## Proje için gerekenler
 
-- Git versiyon kontrol sistemi kontrol için: git --version git kurulumu çok basit chatGPT ye sorun
-- Node.js v22.15.0 ve npm kontrol için terminal: node -v ile npm -v
-- npm install -g sass (gerekirse)
+- Git versiyon kontrol sistemi kontrol için: `git --version` git kurulumu çok basit chatGPT ye sorun
+- Node.js v22.15.0 ve npm kontrol için terminal: `node -v` ile `npm -v`
+- `npm install -g sass` (gerekirse)
 
 ## Kurulum adımları
 
 - Git kontrol: tavsiye VS Code üzerinden bağla
 - Node ve npm kontrol
-- git clone https://github.com/halukerenozlu/WebGame-Project.git -> burada github hesabı varsa
+- `git clone https://github.com/halukerenozlu/WebGame-Project.git` -> burada github hesabı varsa
   ortak contributor eklerim
-- cd WebGame-Project
-- npm install
-- npm run scss -> bu komut çalışırken scss uzantılı dosyalarda değişiklik yapılır ve ctrl+s ile kaydedildiğinde kodlar derlenir ve sıkıştırılır, public altındaki css dosyasına yazdırılır.
+- `cd WebGame-Project`
+- `npm install`
+- `npm run scss` -> bu komut çalışırken scss uzantılı dosyalarda değişiklik yapılır ve ctrl+s ile kaydedildiğinde kodlar derlenir ve sıkıştırılır, public altındaki css dosyasına yazdırılır.
 
 ## ÖNEMLİ
 
